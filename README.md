@@ -1,6 +1,6 @@
 # Boomber_bd
 This is a python project For SMS Boombing In Bangladeshi Number 
-# Modifi & Update PROGRAMMED BY MAHDI
+# Modifi & Update BY MAHDI
 
 # INSTALLATIONS
 
